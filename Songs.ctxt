@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Songs
+comment0.text=\r\n\ This\ is\ where\ you\ can\ find\ the\ lit\ of\ songs\ that\ go\ into\ the\ MediaLib\ project\r\n\r\n\ @author\ (Mathew\ Haywood)\r\n\ @version\ (8/19/2019)\r\n
+comment1.params=
+comment1.target=Songs()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Songs\r\n
+comment10.params=title\ price\ rating
+comment10.target=Songs(java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment3.params=t
+comment3.target=void\ setTitle(java.lang.String)
+comment4.params=
+comment4.target=int\ getRating()
+comment5.params=r
+comment5.target=void\ setRating(int)
+comment6.params=p
+comment6.target=void\ setPrice(double)
+comment7.params=
+comment7.target=double\ getPrice()
+comment8.params=
+comment8.target=void\ addToFavorites()
+comment9.params=title\ price
+comment9.target=Songs(java.lang.String,\ double)
+numComments=11

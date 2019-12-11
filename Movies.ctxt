@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Movies
+comment0.text=\r\n\ The\ mutator\ and\ acessor\ for\ the\ movie\ titles\r\n\r\n\ @author\ (Matthew\ haywood)\r\n\ @version\ (8/23/2019)\r\n
+comment1.params=
+comment1.target=Movies()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Movies\r\n
+comment2.params=
+comment2.target=int\ getTitle()
+comment3.params=x
+comment3.target=void\ setTitle(int)
+comment4.params=
+comment4.target=int\ getDuration()
+comment5.params=x
+comment5.target=void\ setDuration(int)
+comment6.params=
+comment6.target=void\ main()
+numComments=7
