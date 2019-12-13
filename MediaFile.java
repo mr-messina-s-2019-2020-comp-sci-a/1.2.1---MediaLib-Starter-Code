@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileWriter;
@@ -69,7 +70,7 @@ public class MediaFile
 
         try {
             out.write(s);
-            out.newLine();
+            out.write("|");
         }
         catch (Exception e) {
             System.err.println("Cannot write file!");
